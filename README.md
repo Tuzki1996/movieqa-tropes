@@ -41,7 +41,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/BurnAfterReading
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Backdraft
 xhttps://tvtropes.org/pmwiki/pmwiki.php/Film/FourteenOhEightTheWhistleblower 
 https://tvtropes.org/pmwiki/pmwiki.php/Film/StarWarsEpisodeIiAttackOfTheClones
-https://tvtropes.org/pmwiki/pmwiki.php/Film/TheWhistleblower
+xhttps://tvtropes.org/pmwiki/pmwiki.php/Film/TheWhistleblower
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGodfatherPartIii
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheDarkKnight
 https://tvtropes.org/pmwiki/pmwiki.php/Film/HarryPotterAndTheGobletOfFire
@@ -126,7 +126,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/Once
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MenInBlack
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TwelveYearsASlave
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Carrie
-https://tvtropes.org/pmwiki/pmwiki.php/Film/Intouchab
+https://tvtropes.org/pmwiki/pmwiki.php/Film/Intouchables
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheKingsSpeech
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheSixthSense
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Twilight
@@ -193,7 +193,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/OceansTwelve
 https://tvtropes.org/pmwiki/pmwiki.php/Film/StarWarsEpisodeIThePhantomMenace
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BackToTheFuturePartIi
 https://tvtropes.org/pmwiki/pmwiki.php/Film/LawAbidingCitizen
-https://tvtropes.org/pmwiki/pmwiki.php/Film/22JumpStreet
+xhttps://tvtropes.org/pmwiki/pmwiki.php/Film/22JumpStreet
 https://tvtropes.org/pmwiki/pmwiki.php/Film/KnockedUp
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Tron
 https://tvtropes.org/pmwiki/pmwiki.php/Film/SpiderMan2
@@ -373,7 +373,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Film/GoneGirl
 https://tvtropes.org/pmwiki/pmwiki.php/Film/ForrestGump
 https://tvtropes.org/pmwiki/pmwiki.php/Film/BlackWater
 https://tvtropes.org/pmwiki/pmwiki.php/Film/Batman
-https://tvtropes.org/pmwiki/pmwiki.php/Film/XFirstClass
+https://tvtropes.org/pmwiki/pmwiki.php/Film/XMenFirstClass
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MemoirsOfAGeisha
 https://tvtropes.org/pmwiki/pmwiki.php/Film/TheGirlWithTheDragonTattoo
 https://tvtropes.org/pmwiki/pmwiki.php/Film/MoonriseKingdom
